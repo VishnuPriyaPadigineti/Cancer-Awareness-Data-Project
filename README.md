@@ -152,12 +152,7 @@ Visualization performed in **Google Data Studio** and **Power BI**:
 
 ---
 
-### 🔹 Gender-wise Deaths by Year (Table View)
-<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20021119.png" target="_blank">
-  <img src="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20021119.png" alt="Gender-wise Deaths by Year (Table)" width="80%">
-</a>
 
----
 
 ## 💡 Key Insights
 - **Male deaths** are consistently higher than female deaths.  
