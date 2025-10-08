@@ -105,7 +105,7 @@ All SQL queries were executed in **Google BigQuery**.
 ## 📊 Data Visualization
 Visualization performed in **Google Data Studio** and **Power BI**:
 
-- **Bar Chart:** Average deaths per city  
+- **Bar Chart:** Average deaths per city
 - **Line Graph:** Year-wise cancer mortality trend (2010–2022)  
 - **Pie Chart:** Race vs. average cancer deaths  
 - **Pyramid Chart:** Gender vs. total deaths  
@@ -113,6 +113,48 @@ Visualization performed in **Google Data Studio** and **Power BI**:
 
 <a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Program/blob/main/cancer-awareness-banner.png" target="_blank">
   📊 <b>View Dashboard</b>
+</a>
+## 📊 Visualizations
+
+---
+
+### 🔹 Average Death Rate in Each City
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20015927.png" target="_blank">
+  <img src="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20015927.png" alt="Average Death Rate in Each City" width="80%">
+</a>
+
+
+### 🔹 Average Death Rate by Each Year
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20015808.png" target="_blank">
+  <img src="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20015808.png" alt="Average Death Rate by Year" width="80%">
+</a>
+
+---
+
+### 🔹 Average Death Rate by Race
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20015848.png" target="_blank">
+  <img src="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20015848.png" alt="Average Death Rate by Race" width="80%">
+</a>
+
+---
+
+### 🔹 Total Deaths Over the Years by Gender
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20015951.png" target="_blank">
+  <img src="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20015951.png" alt="Total Deaths Over the Years by Gender" width="80%">
+</a>
+
+---
+
+### 🔹 Total Deaths Funnel
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20021046.png" target="_blank">
+  <img src="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20021046.png" alt="Total Deaths Funnel" width="80%">
+</a>
+
+---
+
+### 🔹 Gender-wise Deaths by Year (Table View)
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20021119.png" target="_blank">
+  <img src="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/visualizations/Screenshot%202025-10-08%20021119.png" alt="Gender-wise Deaths by Year (Table)" width="80%">
 </a>
 
 ---
