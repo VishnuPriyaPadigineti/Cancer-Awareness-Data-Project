@@ -2,7 +2,7 @@
 Analyzing U.S. cancer mortality trends (2010–2022) by gender, race, and city to support targeted awareness initiatives.
 # 🎗️ Cancer Awareness Program – Cancer Mortality Analytics
 
-![Cancer Awareness Banner](https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Program/blob/main/cancer-awareness-banner.png)
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/BigCitiesHealth-All-Cancer-Deaths-final-csv.csv" target="_blank">
 
 ## 🩺 Project Objective
 The objective of this project is to analyze cancer mortality data across major U.S. cities to identify **high-risk demographic groups** based on **gender, race, and region**.  
