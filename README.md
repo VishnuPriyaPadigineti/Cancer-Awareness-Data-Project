@@ -111,7 +111,7 @@ Visualization performed in **Google Data Studio** and **Power BI**:
 - **Pyramid Chart:** Gender vs. total deaths  
 - **Dot Graph:** Gender distribution per year  
 
-<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Program/blob/main/cancer-awareness-banner.png" target="_blank">
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/tree/main/visualizations" target="_blank">
   📊 <b>View Dashboard</b>
 </a>
 ## 📊 Visualizations
