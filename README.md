@@ -95,7 +95,7 @@ All SQL queries were executed in **Google BigQuery**.
 | Q5 | Average Deaths per City | Highest: Louisville, KY (194), Lowest: Phoenix, AZ (128) |
 | Q6 | Gender-wise Deaths by Year | Females: 159 (2016), Males: 158 (2017) |
 
-<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Program/blob/main/sql/queries.sql" target="_blank">
+<a href="https://github.com/VishnuPriyaPadigineti/Cancer-Awareness-Data-Project/blob/main/Queries.sql" target="_blank">
   💾 <b>View Full SQL Queries</b>
 </a>
 
