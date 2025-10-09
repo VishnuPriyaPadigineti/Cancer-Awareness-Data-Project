@@ -53,7 +53,6 @@ By examining **gender and racial demographics**, we can identify the **most vuln
 ---
 
 ## 💼 Business Understanding
-A healthcare organization, **Medicaid Inc.**, with 88,000 employees and $45.9B in annual revenue, plans to launch a **Cancer Awareness Program**.  
 This project identifies high-risk demographic groups by studying cancer death rates by **gender**, **race**, and **location**.
 
 Key objectives:
@@ -178,7 +177,7 @@ Targeted awareness campaigns and early-screening programs should prioritize thes
 
 ## 📚 References
 - Dataset Source: [Big Cities Health Inventory Data Platform](https://www.bigcitieshealthdata.org/)
-- Organization: *Medicaid Inc.*
+
 
 ---
 
